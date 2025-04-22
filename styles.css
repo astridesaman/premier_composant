@@ -1,0 +1,48 @@
+body {
+    font-family: 'General Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fafafa;
+    color: #111;
+    line-height: 1.6;
+  }
+  
+  header {
+    background-color: #1a1a1a;
+    padding: 1.5rem;
+    text-align: center;
+    color: #fff;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin: 2rem 0 1rem;
+    text-align: center;
+    font-weight: 600;
+    color: #fff;
+  }
+  
+  h3 {
+    font-size: 1.25rem;
+    margin: 1rem 0;
+    text-align: center;
+    font-weight: 500;
+    color: #fafafa;
+  }
+  
+  footer {
+    background-color: #f1f1f1;
+    padding: 1rem;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+    border-top: 1px solid #e0e0e0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  footer p {
+    margin: 0.5rem 0;
+  }
+  
